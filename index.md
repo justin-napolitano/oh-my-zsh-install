@@ -1,12 +1,26 @@
 ---
-slug: "github-oh-my-zsh-install"
-title: "oh-my-zsh-install"
-repo: "justin-napolitano/oh-my-zsh-install"
-githubUrl: "https://github.com/justin-napolitano/oh-my-zsh-install"
-generatedAt: "2025-11-23T09:23:10.262189Z"
-source: "github-auto"
+slug: github-oh-my-zsh-install
+title: Automated Oh My Zsh Installation Script with Configuration Options
+repo: justin-napolitano/oh-my-zsh-install
+githubUrl: https://github.com/justin-napolitano/oh-my-zsh-install
+generatedAt: '2025-11-23T09:23:10.262189Z'
+source: github-auto
+summary: >-
+  Implementation details and considerations for a shell script automating Oh My Zsh installation and
+  configuration on Unix-like systems.
+tags:
+  - oh-my-zsh
+  - shell-script
+  - zsh
+  - unix
+  - configuration-management
+seoPrimaryKeyword: oh my zsh installation
+seoSecondaryKeywords:
+  - shell script
+  - automation
+  - zsh configuration
+seoOptimized: true
 ---
-
 
 # oh-my-zsh-install: Technical Overview and Reference
 
