@@ -20,6 +20,13 @@ seoSecondaryKeywords:
   - automation
   - zsh configuration
 seoOptimized: true
+topicFamily: devtools
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post is about automating the installation and configuration of Oh My Zsh, a shell environment
+  setup, which fits best within development environment configuration and setup (devtools). The
+  example_slugs for devtools include this same post's slug. While automation is a close candidate,
+  devtools is more specific and better encompasses the shell environment focus.
 ---
 
 # oh-my-zsh-install: Technical Overview and Reference
@@ -57,3 +64,4 @@ Expanding the project could involve integrating configuration management tools l
 ## Summary
 
 This repository encapsulates a practical solution to a common developer workflow challenge: setting up a consistent and feature-rich shell environment. By automating the Oh My Zsh installation, it reduces manual overhead and supports reproducible environments, crucial for both individual productivity and team consistency.
+
