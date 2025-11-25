@@ -1,19 +1,28 @@
 ---
 slug: github-oh-my-zsh-install
 id: github-oh-my-zsh-install
-title: oh-my-zsh-install
+title: Automated Oh My Zsh Installation Script
 repo: justin-napolitano/oh-my-zsh-install
 githubUrl: https://github.com/justin-napolitano/oh-my-zsh-install
 generatedAt: '2025-11-24T21:35:50.423Z'
 source: github-auto
 summary: >-
-  A utility repository aimed at simplifying the installation and setup of Oh My
-  Zsh, a popular framework for managing Zsh configurations. This project
-  automates the installation process to streamline shell environment setup.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  This repository simplifies the installation and setup of Oh My Zsh with an
+  automated script for quick shell environment configuration.
+tags:
+  - oh-my-zsh
+  - zsh
+  - bash
+  - shell scripting
+  - unix
+seoPrimaryKeyword: oh my zsh installation automation
+seoSecondaryKeywords:
+  - zsh configuration
+  - bash installation script
+  - shell environment setup
+  - command-line tools
+  - custom zsh plugins
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
