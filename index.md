@@ -1,32 +1,39 @@
 ---
 slug: github-oh-my-zsh-install
-title: Automated Oh My Zsh Installation Script with Configuration Options
+title: Automated Oh My Zsh Installation for Developers
 repo: justin-napolitano/oh-my-zsh-install
 githubUrl: https://github.com/justin-napolitano/oh-my-zsh-install
 generatedAt: '2025-11-23T09:23:10.262189Z'
 source: github-auto
 summary: >-
-  Implementation details and considerations for a shell script automating Oh My Zsh installation and
-  configuration on Unix-like systems.
+  Streamline your Oh My Zsh installation process with automation to ensure
+  consistency and reduce manual errors across environments.
 tags:
   - oh-my-zsh
   - shell-script
   - zsh
   - unix
   - configuration-management
-seoPrimaryKeyword: oh my zsh installation
+  - shell scripting
+  - configuration management
+seoPrimaryKeyword: automated oh my zsh installation
 seoSecondaryKeywords:
-  - shell script
-  - automation
-  - zsh configuration
+  - zsh shell setup
+  - oh my zsh script
+  - shell environment automation
+  - dev environment consistency
+  - install oh my zsh
 seoOptimized: true
 topicFamily: devtools
 topicFamilyConfidence: 0.95
 topicFamilyNotes: >-
-  The post is about automating the installation and configuration of Oh My Zsh, a shell environment
-  setup, which fits best within development environment configuration and setup (devtools). The
-  example_slugs for devtools include this same post's slug. While automation is a close candidate,
-  devtools is more specific and better encompasses the shell environment focus.
+  The post is about automating the installation and configuration of Oh My Zsh,
+  a shell environment setup, which fits best within development environment
+  configuration and setup (devtools). The example_slugs for devtools include
+  this same post's slug. While automation is a close candidate, devtools is more
+  specific and better encompasses the shell environment focus.
+kind: project
+id: github-oh-my-zsh-install
 ---
 
 # oh-my-zsh-install: Technical Overview and Reference
