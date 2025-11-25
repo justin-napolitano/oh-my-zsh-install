@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/oh-my-zsh-install
 generatedAt: '2025-11-24T21:35:50.423Z'
 source: github-auto
 summary: >-
-  This repository simplifies the installation and setup of Oh My Zsh with an
-  automated script for quick shell environment configuration.
+  This repository simplifies the installation and setup of Oh My Zsh with an automated script for
+  quick shell environment configuration.
 tags:
   - oh-my-zsh
   - zsh
@@ -23,8 +23,8 @@ seoSecondaryKeywords:
   - command-line tools
   - custom zsh plugins
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: devtools
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -87,3 +87,4 @@ oh-my-zsh-install/
 ---
 
 *This README is generated based on limited repository information and reasonable assumptions.*
+
